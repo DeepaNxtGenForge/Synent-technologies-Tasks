@@ -1,2 +1,2 @@
-# synent technologies intern
-TASKS COMPLETION FOR INTERNSHIP SELF LEARNING BASED
+# synent technologies internship
+This Respository Contains my internship tasks completed during Synent technologies internship program
